@@ -20999,7 +20999,7 @@ n.push(A.avm(r.a,a,r.b,s,r.c))}return A.lh(new A.dE(B.dN,new A.es(B.bJ,A.ee(A.c(
 avm(a,b,c,d,e){var s=null
 return A.oy(A.tE(s,A.bn(A.ee(A.c([A.avn(a,c),B.Iy,A.c_(e,B.KI,B.bZ),B.Ix,A.c_(A.awe(e),B.Lk,B.bZ)],t.E),B.am,B.I),320,200),B.at,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aa9(b,d),s,s,s),B.iV,s,s,s)},
 avn(a,b){var s=null,r=A.aJ(31,a.C()>>>16&255,a.C()>>>8&255,a.C()&255),q=A.l8(20)
-return A.ie(s,A.Q0(A.l8(20),A.CU(b,new A.aaa(a),B.fH,160,230)),s,new A.dD(r,s,s,q,s,s,B.aJ),160,s,s,230)},
+return A.ie(s,A.Q0(A.l8(20),A.CU(b,new A.aaa(a),B.fH,160,180)),s,new A.dD(r,s,s,q,s,s,B.aJ),160,s,s,180)},
 awe(a){var s
 A:{if("\uae00\ub85c\ubc8c \ubc15\ub78c\ud68c \n 2025 Korea Expo"===a){s="\uba40\ud2f0 \ucc44\ub110 \ucf58\ud150\uce20 \uae30\ud68d & \n \ub274\uc2a4\ub808\ud130 \ubc1c\ud589\uc744 \ud1b5\ud574 \n \uc7a0\uc7ac \uace0\uac1d \ub9ac\ub4dc\ub97c \ud655\ubcf4\ud558\uace0 \uc624\ud504\ub77c\uc778 \ud589\uc0ac \uc6b4\uc601"
 break A}if('\uace0\uac1d \uac80\uc99d \uc778\ud130\ubdf0 \ub9ac\uc11c\uce58 \ud50c\ub7ab\ud3fc "Whyer"'===a){s="\ud0c0\uac9f \uace0\uac1d FGI\uc9c4\ud589 \n \ube44\uc988\ub2c8\uc2a4 \ubaa8\ub378 \ubc0f \uc571 \uae30\ub2a5 \n \uae30\ud68d \ucc38\uc5ec"
